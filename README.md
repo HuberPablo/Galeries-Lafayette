@@ -9,3 +9,5 @@ Next, we employed Structural Equation Modeling (SEM) to explore the relationship
 The insights from this study provided Galeries Lafayette with actionable recommendations to enhance their brand equity. We suggested focusing on improving the in-store experience, particularly through enhancing the store atmosphere and maintaining a high standard of customer service, to strengthen customer loyalty and encourage brand co-creation.
 
 For more details and further insights, you can check out the HTML file in the repository!
+
+(For a more harmonious display, download the html file and open it with your favorite browser)
