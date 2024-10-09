@@ -1,12 +1,21 @@
-# Analyzing Brand Equity for Galeries Lafayette Using Structural Equation Modeling
+# Analyzing Brand Equity for Galeries Lafayette Using Structural Equation Modeling (SEM)
 
-In this comprehensive case study, my colleague Oscar Wieland and I conducted an in-depth analysis to understand the key drivers of brand equity for the renowned French retail company, Galeries Lafayette. Facing declining sales, the company sought to identify how customers perceive its brand and what drives their loyalty and commitment.
+To conduct this brand equity analysis, the marketing manager of Galeries Lafayette provided us with
+a dataset containing responses from 553 customers to a questionnaire. This dataset includes various
+questions aimed at evaluating customers’ perceptions of the company’s image and services.
 
-To achieve this, we began with an Exploratory and Confirmatory Factor Analysis (EFA & CFA). We analyzed data collected from a survey of 600 customers. Through Exploratory Factor Analysis (EFA), we identified key dimensions of customer perception, such as assortment variety, store atmosphere, staff friendliness, and brand prestige. Following this, we conducted a Confirmatory Factor Analysis (CFA) to validate these dimensions and establish a robust measurement model.
+Understanding brand equity is crucial for any business, as it directly impacts customer loyalty, retention,
+and long-term profitability. In this case, the objective is to explore how customers perceive Galeries
+Lafayette and to identify the factors that influence their loyalty and commitment to the brand.
 
-Next, we employed Structural Equation Modeling (SEM) to explore the relationships between these dimensions and key outcomes like customer satisfaction, affective commitment, repurchase intention, and co-creation intention. We used latent variables for dimensions such as satisfaction (measured by SAT_1 to SAT_3), affective commitment (measured by COM_A1 to COM_A4), among others.
+We will first conduct an exploratory factor analysis (EFA) to uncover the dimensions by which customers
+view the company. Following that, we will build a structural equation model (SEM) to assess how these
+factors impact customer loyalty and commitment.
 
-The insights from this study provided Galeries Lafayette with actionable recommendations to enhance their brand equity. We suggested focusing on improving the in-store experience, particularly through enhancing the store atmosphere and maintaining a high standard of customer service, to strengthen customer loyalty and encourage brand co-creation.
+This analysis will provide Galeries Lafayette with valuable insights, offering a causal model that high-
+lights the most important factors contributing to brand equity and their interrelationships.
+These segments offer valuable insights for the marketing team, enabling them to refine marketing
+strategies, tailor product offerings, and enhance overall customer engagement.
 
 For more details and further insights, you can check out the HTML file in the repository!
 
